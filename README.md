@@ -1,0 +1,2 @@
+Our goal of this project was to analyze the endurance of different songs to determine which songs have a longer lifespan than their contemporaries, and stronger vitality to resist the time elapsing. 
+To analyze our hypothesis we used data set from Spotify, Billboard and last.fm. Using the features from these datasets we created a linear based regression model to predict the popularity of songs, which achieved a train RMSE:  12.08  and test MSE:  12.53.
